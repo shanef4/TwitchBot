@@ -1,0 +1,10 @@
+twitch account name: (username of account for bot)
+twitch password: (authorization token for account)
+twitch channel to join: (username of channel to join)
+points per minute: 100
+chance of winning(1 out of): 1
+cost per roll: 100
+number of seconds for points: 5
+points per song: 10
+song queue limit: 10
+cost for discord: 500

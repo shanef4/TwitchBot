@@ -1,0 +1,20 @@
+Command List:
+
+!points - Display user's points.
+!songson - Turns on song requests, still not 100% functional as a feature.
+!songskip - Skips current song, this is the part of the feature that is currently bugged.
+!songsoff - Disables song requests.
+!songrequest url - Adds song to queue, only works with YouTube links.
+!social - Social media links.
+!donate - Donation information.
+!save - Saves current state of points. (only usable by Chibbun)
+
+!giveaway - Information about roll.
+!roll - Roll random number
+
+!extend - Information about stream time extension.
+!extendbuy - Buy extra stream time.
+!extratime - View the list of users who bought extra time for the current session.
+
+!discord - Information about Discord invitation purchasing.
+!discordbuy - Buy Discord invitation.
